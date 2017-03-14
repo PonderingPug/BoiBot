@@ -38,4 +38,4 @@ bot
 	});
     
 
-bot.login('Mjg3NzAwMDMxOTc1NDU2Nzc4.C5zG-A.h5gcbL3gaJ3Az5zHFvx6ZH1OT3I');
+bot.login('ID HERE');
