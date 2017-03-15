@@ -27,7 +27,7 @@ bot
 		message.channel.send(message.author.user + " is playing " + message.author.presence.game.name);
 	    }
 	    else
-		message.channel.send(message.author.username + " is not playing anything.");
+		message.channel.send(message.author.username + " is not playing anything");
 		
 	    break;
 	//Destroying the bot	
